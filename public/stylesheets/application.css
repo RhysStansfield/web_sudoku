@@ -9,8 +9,15 @@ div.box, div.cell {
 }
 
 #sudoku {
+  font-size: 0;
   background-color: #000;
-  width: 377px;
+  width: 342px;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+body {
+  text-align: center;
+  font-family: Arial;
 }
