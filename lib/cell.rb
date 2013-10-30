@@ -22,9 +22,9 @@ class Cell
   	@value.to_s
   end
 
-  # def inspect
-  #   "cell value = #{@value}"
-  # end
+  def inspect
+    "cell value = #{@value}"
+  end
 
   def solve!
   	return if solved?  	

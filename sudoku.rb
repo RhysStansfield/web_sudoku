@@ -1,4 +1,6 @@
 require 'sinatra'
+require 'sinatra-partial'
+set :partial_template_engine, :erb
 require_relative './lib/sudoku'
 require_relative './lib/cell'
 
@@ -11,19 +13,28 @@ def random_sudoku
   sudoku.to_s.chars
 end
 
+def indexes
+  [*0..80].sample(50)
+end
+  
 def puzzle sudoku
-  the_puzzle = sudoku.dup
-  array = Range.new(0, 80).to_a.sample(40)
-  array.each{ |number| the_puzzle[number] = 0 }
-  the_puzzle
+  puzzle_board = sudoku.dup
+  indexes.each do |num|
+    puzzle_board[num] = 0
+  end
+  puzzle_board
 end
 
-def generate_new_puzzle_if_necessary
-  return if session[:current_solution]
+def new_game
   sudoku = random_sudoku
   session[:solution] = sudoku
   session[:puzzle] = puzzle(sudoku)
   session[:current_solution] = session[:puzzle]
+end
+
+def generate_new_puzzle_if_necessary
+  return if session[:current_solution]
+  new_game
 end
 
 def prepare_to_check_solution
@@ -48,6 +59,7 @@ helpers do
   def cell_value(value)
     value.to_i == 0 ? '' : value
   end
+
 end
 
 def box_order_to_row_order(cells)
@@ -88,4 +100,7 @@ post '/' do
   redirect to("/")
 end
 
-
+get '/new_game' do
+  new_game
+  redirect to("/")
+end
