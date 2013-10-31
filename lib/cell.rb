@@ -1,46 +1,44 @@
-require 'set'
-
 class Cell
 
-  attr_reader :slices, :value
-
-  def initialize(value)
-    @value = value.to_i
-    @slices = []
+  def initialize value
+    @value = value
+    candidates_set_up
   end
 
-  def add_slice(slice)
-    @slices << slice
+  def candidates_set_up
+     if @value == 0
+      @candidates = (1..9).to_a
+    else
+      @candidates = []
+    end
+  end   
+
+  def value
+    @value
+  end
+
+  def value= new_value
+    @value = new_value
   end
 
   def solved?
-  	@value && @value != 0
+    @value != 0
   end
 
-  def to_s
-  	return '_' unless solved?
-  	@value.to_s
-  end
-
-  def inspect
-    "cell value = #{@value}"
-  end
-
-  def solve!
-  	return if solved?  	
-  	assume(candidates.first) if candidates.length == 1
-  end
-
-  def assume(value)
-    @value = value
+  def value_assignment
+    @value = candidates.pop
   end
 
   def candidates
-    (1..9).to_set.subtract(neighbours)
+    @candidates
   end
 
-  def neighbours
-  	@slices.flatten.map(&:value).inject(Set.new) {|set, digit| set << digit}.delete(0)
+  def candidate_count
+    candidates.count
   end
-  
+
+  def ready_to_assign
+    value_assignment if candidate_count == 1
+  end
+
 end

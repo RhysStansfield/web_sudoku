@@ -1,7 +1,7 @@
 require 'sinatra'
 require 'sinatra/partial'
 require 'rack-flash'
-require_relative './lib/sudoku'
+require_relative './lib/solver'
 require_relative './lib/cell'
 
 use Rack::Flash
@@ -14,8 +14,8 @@ set :session_secret, "badoing"
 
 def random_sudoku
   seed = (1..9).to_a.shuffle + Array.new(81-9, 0)
-  sudoku = Sudoku.new(seed.join)
-  sudoku.solve!
+  sudoku = Solver.new(seed.join)
+  sudoku.solve
   sudoku.to_s.chars
 end
 
