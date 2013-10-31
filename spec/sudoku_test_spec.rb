@@ -2,7 +2,7 @@ require 'sudoku_test'
 
 describe SudokuBuggery do
 
-let(:board) { SudokuBuggery.new }
+let(:board) { CellHider.new }
 
   it 'is created with a board' do
     expect(board.board).to be_a_kind_of Array
