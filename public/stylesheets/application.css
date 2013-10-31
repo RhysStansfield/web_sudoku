@@ -70,7 +70,7 @@ body {
 #flash {
   display: inline-block;
   background: #DDD;
-  margin: 30px;
+  margin: 20px 30px 10px 30px;
 }
 
 div.box, div.cell {
@@ -105,7 +105,12 @@ div.box, div.cell {
 }
 
 button {
+  background-color: #FFF;
   width: 300px;
   font-size: 20px;
   font-family: 'Courgette';
+}
+
+button:hover {
+  background-color: #DDD;
 }
