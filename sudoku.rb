@@ -19,11 +19,12 @@ def random_sudoku
   sudoku.to_s.chars
 end
 
-def indexes
-  [*0..80].sample(50)
-end
+# def indexes
+#   [*0..80].sample(50)
+# end
   
-def puzzle sudoku
+def puzzle sudoku, difficulty
+  indexes = [*0..80].sample(difficulty)
   puzzle_board = sudoku.dup
   indexes.each do |num|
     puzzle_board[num] = 0
@@ -31,16 +32,16 @@ def puzzle sudoku
   puzzle_board
 end
 
-def new_game
+def new_game difficulty
   sudoku = random_sudoku
   session[:solution] = sudoku
-  session[:puzzle] = puzzle(sudoku)
+  session[:puzzle] = puzzle(sudoku, difficulty)
   session[:current_solution] = session[:puzzle]
 end
 
 def generate_new_puzzle_if_necessary
   return if session[:current_solution]
-  new_game
+  new_game 50
 end
 
 def prepare_to_check_solution
@@ -108,6 +109,16 @@ post '/' do
 end
 
 get '/new_game' do
-  new_game
+  new_game 50
+  redirect to("/")
+end
+
+get '/easy' do
+  new_game 30
+  redirect to("/")
+end
+
+get '/hard' do
+  new_game 65
   redirect to("/")
 end

@@ -18,14 +18,19 @@ header {
 h1 {
   display: inline-block;
   font-size: 45px;
-  font-family: 'Amarante', sans-serif;
+  font-family: 'Walter Turncoat', cursive;
+  font-weight: bold;
   text-decoration: underline;
+  color: #FFF;
+}
+
+h1 a {
+  color: #FFF;
 }
 
 nav {
-  background: #DDD;
   border-radius: 5px;
-  text-align: left;
+  text-align: center;
   display: inline-block;
   padding-right: 30px;
   padding-bottom: 20px;
@@ -45,9 +50,10 @@ nav a {
   font-size: 20px;
   text-transform: uppercase;
   color: #DDD;
-  font-family: 'Amarante', sans-serif;
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-weight: bold;
   background: #000;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 3px 5px 3px 5px;
 }
 
@@ -63,19 +69,24 @@ nav a:visited {
 
 nav a:visited:hover {
   color: #FFF;
-  background: #000;
+  background: #000;  
 }
 
 body {
-  background-image:url('/images/waves.jpg');
+  background-image:url('/images/goo.jpg');
+  background-size: 1400px;
+  background-position: center;
   text-align: center;
   font-family: Arial;
 }
 
 #flash {
   display: inline-block;
-  background: #DDD;
+  background: #FFF;
+  color: #000;
+  padding: 5px;
   margin: 20px 30px 10px 30px;
+  border-radius: 10px;
 }
 
 div.box, div.cell {
@@ -114,8 +125,21 @@ button {
   width: 300px;
   font-size: 20px;
   font-family: 'Courgette';
+  border-radius: 10px;
 }
 
 button:hover {
   background-color: #DDD;
+}
+
+#reset {
+  background-color:rgba(0,0,0,0.0);
+  width: 50px;
+  border: none;
+  color: #DDD;
+  cursor: pointer;
+}
+
+#reset:hover {
+  color: #FFF;
 }

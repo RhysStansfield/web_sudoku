@@ -1,0 +1,66 @@
+<html>
+<head>
+  <link href="/stylesheets/cat.css" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Walter+Turncoat' rel='stylesheet' type='text/css'>
+  <title>Cat-doku!</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li>
+          <a href="/cat">Home</a>
+        </li>
+        <li>
+          <a href="/cat/solution">Solution</a>
+        </li>
+        <li>
+          <a href="/cat/new_game">New Game</a>
+          <ul>
+            <li>
+              <a href="/cat/easy">Easy</a>
+            </li>
+            <li>
+              <a href="/cat/new_game">Medium</a>
+            </li>
+            <li>
+              <a href="/cat/hard">Hard</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="/">Splashy</a>
+        </li>
+      </ul>
+    </nav>
+    <h1><a href="/cat">Cat-doku!</a></hi>
+  </header>
+  <%= partial :flash %>
+  <div id='sudoku'>
+    <form action="/cat" method="post">
+      <% 3.times do |row| %>
+      <div class="row">
+        <% 3.times do |box| %>
+        <div class="box">
+          <% 3.times do |cell_row| %>
+          <div class="cell-row">
+            <% 3.times do |cell| %>
+            <%= partial :cell, locals: {cell_index: row*27+box*3+cell_row*9+cell} %>
+            <% end %>
+          </div>
+          <% end %>
+        </div>
+        <% end %>
+      </div>
+      <% end %>
+      <div id='check'>
+        <button>Check Cat-lution</button>
+      </div>
+    </form>
+    <form action="/reset" method="post">
+      <button id='reset'>Reset</button>
+    </form>
+  </div>
+</body>
+</html>

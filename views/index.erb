@@ -18,34 +18,14 @@
         <li>
           <a href="/new_game">New Game</a>
         </li>
+        <li>
+          <a href="/cat">Kittehz</a>
+        </li>
       </ul>
     </nav>
     <h1>Sudoku GargleBlaster</h1>
   </header>
-  <div id='flash'>
-    <%= flash[:notice] %>
-  </div>
-  <div id="sudoku">
-    <form action="/" method="post">
-      <% 3.times do |row| %>
-      <div class='row'>
-        <% 3.times do |box| %>
-        <div class='box'>
-          <% 3.times do |cell_row| %>
-          <div class="cell-row" %>
-            <% 3.times do |cell| %>
-              <%= partial :cell, :locals=>{:cell_index => row*27+box*3+cell_row*9+cell} %>
-            <% end %>
-          </div>
-          <% end %>
-        </div>
-        <% end %>
-      </div>
-      <% end %>
-      <div id='check'>
-      <button>Check solution</button>
-      </div>
-    </form>
-  </div>
+  <%= partial :flash %>
+  <%= partial :sudoku %>
 </body>
 </html>
