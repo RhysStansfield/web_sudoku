@@ -1,18 +1,3 @@
-require 'sinatra'
-require 'sinatra/partial'
-require 'rack-flash'
-require_relative './lib/sudoku'
-require_relative './lib/cell'
-
-use Rack::Flash
-register Sinatra::Partial
-set :partial_template_engine, :erb
-
-enable :sessions
-
-set :session_secret, 'caaaaaaaaaaatttttt'
-
-
 get '/cat' do
   prepare_to_check_solution
   generate_new_puzzle_if_necessary
@@ -38,6 +23,12 @@ end
 
 post '/reset' do
   session[:current_solution] = session[:puzzle]
+  redirect to("/cat")
+end
+
+post '/save' do
+  # cells = box_order_to_row_order(params["cell"])
+  # session[:current_solution] = cells.map { |value| value.to_i }.join
   redirect to("/cat")
 end
 
