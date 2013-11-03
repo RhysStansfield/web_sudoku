@@ -1,4 +1,4 @@
 require './lib/sudoku_app'
-require './goo'
+require './lib/goo'
 
 run Sinatra::Application

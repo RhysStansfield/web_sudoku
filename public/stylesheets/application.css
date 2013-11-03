@@ -1,13 +1,13 @@
 #sudoku {
   font-size: 0;
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.8);
   border-radius: 10px;
   width: 347px;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
   padding-top: 3px;
-  opacity:0.9;
+  position: absolute;
+  top: 130px;
+  left: 400px;
 }
 
 header {
@@ -39,6 +39,24 @@ nav {
 nav li {
   display: block;
   padding: 15px 10px 0 10px;
+  position: relative;
+}
+
+nav ul ul {
+  padding-left: 0;
+  position: absolute;
+  top: 0;
+  left: 95%;
+  width: 60%;
+  display: none;
+}
+
+nav ul ul li {
+  padding-left: 0;
+}
+
+.pop-out:hover ul {
+  display: block;
 }
 
 nav a {
@@ -53,17 +71,14 @@ nav a {
 
 nav a:hover {
   color: #FFF;
-  background: #000;
 }
 
 nav a:visited {
   color: #DDF;
-  background: #000;
 }
 
 nav a:visited:hover {
   color: #FFF;
-  background: #000;
 }
 
 body {
@@ -74,8 +89,14 @@ body {
 
 #flash {
   display: inline-block;
+  font-family: 'Courgette';
   background: #DDD;
   margin: 20px 30px 10px 30px;
+  padding: 3px;
+  border-radius: 5px;
+  position: absolute;
+  top: 75px;
+  left: 415px;
 }
 
 div.box, div.cell {
@@ -102,7 +123,7 @@ div.box, div.cell {
 }
 
 .value-provided {
-  background-color: #DDD;
+  background-color: rgba(221, 221, 221, 0.8);
 }
 
 #check {
@@ -114,8 +135,9 @@ button {
   width: 300px;
   font-size: 20px;
   font-family: 'Courgette';
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 button:hover {
-  background-color: #DDD;
+  background-color: rgba(221, 221, 221, 0.8);
 }
