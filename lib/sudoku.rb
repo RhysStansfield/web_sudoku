@@ -98,7 +98,7 @@ private
     (0..BOX_SIZE-1).inject([]) do |boxes, i|
       relevant_rows = rows.slice(BOX_SIZE * i, BOX_SIZE)
       boxes + relevant_rows.transpose.each_slice(BOX_SIZE).map(&:flatten)       
-    end        
+    end
   end
   
   def initialize_cells(digits)
