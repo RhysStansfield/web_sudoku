@@ -1,8 +1,16 @@
 source 'https://rubygems.org'
 
+ruby '2.0.0'
+
 gem 'sinatra'
 gem 'sinatra-partial'
 gem 'rack-flash3'
-gem 'shotgun'
-gem 'newrelic_rpm'
 gem 'unicorn'
+
+group :production do
+  gem 'newrelic_rpm'
+end
+
+group :development do
+  gem 'shotgun'
+end
