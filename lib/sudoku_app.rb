@@ -75,6 +75,17 @@ post '/' do
   redirect to("/")
 end
 
+post '/reset' do
+  session[:current_solution] = session[:puzzle]
+  redirect to("/")
+end
+
+post '/save' do
+  cells = box_order_to_row_order(params["cell"])
+  session[:current_solution] = cells.map { |value| value.to_i }.join
+  redirect to("/")
+end
+
 get '/new_game' do
   new_game 50
   redirect to("/")

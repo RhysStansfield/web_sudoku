@@ -11,6 +11,6 @@ group :production do
   gem 'newrelic_rpm'
 end
 
-group :staging do
+group :development do
   gem 'shotgun'
 end

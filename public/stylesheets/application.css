@@ -141,3 +141,28 @@ button {
 button:hover {
   background-color: rgba(221, 221, 221, 0.8);
 }
+
+#reset, #save {
+  background-color:rgba(0,0,0,0.0);
+  width: 50px;
+  border: none;
+  color: #DDD;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 20px 0 20px;
+}
+
+#reset {
+  float: left;
+  margin-left: 50px;
+}
+
+#save {
+  float: right;
+  margin-right: 50px;
+}
+
+#reset:hover, #save:hover {
+  background-color:rgba(0,0,0,0.0);
+  color: #FFF;
+}

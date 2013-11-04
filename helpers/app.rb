@@ -16,6 +16,10 @@ helpers do
     value.to_i == 0 ? '' : value
   end
 
+  def cell_disabled?(cell_index)
+    cell_index != 0
+  end
+
 end
 
 def box_order_to_row_order(cells)

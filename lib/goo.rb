@@ -21,14 +21,14 @@ post '/cat' do
   redirect to("/cat")
 end
 
-post '/reset' do
+post '/cat/reset' do
   session[:current_solution] = session[:puzzle]
   redirect to("/cat")
 end
 
-post '/save' do
-  # cells = box_order_to_row_order(params["cell"])
-  # session[:current_solution] = cells.map { |value| value.to_i }.join
+post '/cat/save' do
+  cells = box_order_to_row_order(params["cell"])
+  session[:current_solution] = cells.map { |value| value.to_i }.join
   redirect to("/cat")
 end
 

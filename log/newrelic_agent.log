@@ -4645,3 +4645,719 @@
 [11/03/13 01:52:54 +0000 Rhyss-MacBook-Pro.local (1246)] INFO : Installing deferred Rack instrumentation
 [11/03/13 01:52:54 +0000 Rhyss-MacBook-Pro.local (1246)] INFO : Finished instrumentation
 [11/03/13 01:52:54 +0000 Rhyss-MacBook-Pro.local (1246)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Environment: development
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Dispatcher: webrick
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Application: Web Sudoku
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Installing Net instrumentation
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Finished instrumentation
+[11/03/13 19:31:37 +0000 Rhyss-MacBook-Pro.local (1477)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Environment: development
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Dispatcher: webrick
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Application: Web Sudoku
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Installing Net instrumentation
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Finished instrumentation
+[11/03/13 19:31:38 +0000 Rhyss-MacBook-Pro.local (1480)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Environment: development
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Dispatcher: webrick
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Application: Web Sudoku
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Installing Net instrumentation
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Finished instrumentation
+[11/03/13 19:31:45 +0000 Rhyss-MacBook-Pro.local (1483)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Environment: development
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Dispatcher: webrick
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Application: Web Sudoku
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Installing Net instrumentation
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Finished instrumentation
+[11/03/13 19:31:47 +0000 Rhyss-MacBook-Pro.local (1486)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Environment: development
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Dispatcher: webrick
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Application: Web Sudoku
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Installing Net instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Finished instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1490)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Enabling the Request Sampler.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Environment: development
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Dispatcher: webrick
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Application: Web Sudoku
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Installing Net instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Finished instrumentation
+[11/03/13 19:31:55 +0000 Rhyss-MacBook-Pro.local (1493)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Enabling the Request Sampler.
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Enabling the Request Sampler.
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Environment: development
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Dispatcher: webrick
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Application: Web Sudoku
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Installing Net instrumentation
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Finished instrumentation
+[11/03/13 19:32:08 +0000 Rhyss-MacBook-Pro.local (1496)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Enabling the Request Sampler.
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Enabling the Request Sampler.
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Environment: development
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Dispatcher: webrick
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Application: Web Sudoku
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Installing Net instrumentation
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Finished instrumentation
+[11/03/13 19:32:19 +0000 Rhyss-MacBook-Pro.local (1499)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Enabling the Request Sampler.
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Enabling the Request Sampler.
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Environment: development
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Dispatcher: webrick
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Application: Web Sudoku
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Installing Net instrumentation
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Finished instrumentation
+[11/03/13 19:37:50 +0000 Rhyss-MacBook-Pro.local (1508)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Enabling the Request Sampler.
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Enabling the Request Sampler.
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Environment: development
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Dispatcher: webrick
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Application: Web Sudoku
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Installing Net instrumentation
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Finished instrumentation
+[11/03/13 19:37:51 +0000 Rhyss-MacBook-Pro.local (1511)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Enabling the Request Sampler.
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Enabling the Request Sampler.
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Environment: development
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Dispatcher: webrick
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Application: Web Sudoku
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Installing Net instrumentation
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Finished instrumentation
+[11/03/13 19:38:05 +0000 Rhyss-MacBook-Pro.local (1515)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Enabling the Request Sampler.
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Enabling the Request Sampler.
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Environment: development
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Dispatcher: webrick
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Application: Web Sudoku
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] WARN : Agent configured not to send data in this environment.
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Installing Net instrumentation
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Installing Sinatra instrumentation
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Installing deferred Rack instrumentation
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Finished instrumentation
+[11/03/13 19:38:09 +0000 Rhyss-MacBook-Pro.local (1518)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Enabling the Request Sampler.
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Enabling the Request Sampler.
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Environment: development
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Dispatcher: unicorn
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Application: Web Sudoku
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] WARN : Agent configured not to send data in this environment.
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Installing Net instrumentation
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Installing Sinatra instrumentation
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Installing deferred Rack instrumentation
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Installing Unicorn instrumentation
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Finished instrumentation
+[11/03/13 20:06:56 +0000 Rhyss-MacBook-Pro.local (1595)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Enabling the Request Sampler.
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Enabling the Request Sampler.
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Environment: development
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Dispatcher: unicorn
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Application: Web Sudoku
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] WARN : Agent configured not to send data in this environment.
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Installing Net instrumentation
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Installing Sinatra instrumentation
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Installing deferred Rack instrumentation
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Installing Unicorn instrumentation
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Finished instrumentation
+[11/03/13 20:10:34 +0000 Rhyss-MacBook-Pro.local (1605)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Enabling the Request Sampler.
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Enabling the Request Sampler.
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Environment: development
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Dispatcher: unicorn
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Application: Web Sudoku
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] WARN : Agent configured not to send data in this environment.
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Installing Net instrumentation
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Installing Sinatra instrumentation
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Installing deferred Rack instrumentation
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Installing Unicorn instrumentation
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Finished instrumentation
+[11/03/13 20:10:59 +0000 Rhyss-MacBook-Pro.local (1609)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Enabling the Request Sampler.
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Enabling the Request Sampler.
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Environment: development
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Dispatcher: unicorn
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Application: Web Sudoku
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] WARN : Agent configured not to send data in this environment.
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Installing Net instrumentation
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Installing Sinatra instrumentation
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Installing deferred Rack instrumentation
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Installing Unicorn instrumentation
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Finished instrumentation
+[11/03/13 20:14:30 +0000 Rhyss-MacBook-Pro.local (1614)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Enabling the Request Sampler.
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Enabling the Request Sampler.
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Environment: development
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Dispatcher: unicorn
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Application: Web Sudoku
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] WARN : Agent configured not to send data in this environment.
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Installing Net instrumentation
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Installing Sinatra instrumentation
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Installing deferred Rack instrumentation
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Installing Unicorn instrumentation
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Finished instrumentation
+[11/03/13 22:10:24 +0000 Rhyss-MacBook-Pro.local (6368)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Enabling the Request Sampler.
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Enabling the Request Sampler.
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Environment: development
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Dispatcher: unicorn
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Application: Web Sudoku
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] WARN : Agent configured not to send data in this environment.
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Installing Net instrumentation
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Installing Sinatra instrumentation
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Installing deferred Rack instrumentation
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Installing Unicorn instrumentation
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Finished instrumentation
+[11/03/13 22:17:18 +0000 Rhyss-MacBook-Pro.local (6379)] INFO : Doing deferred dependency-detection before Rack startup
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Starting the New Relic agent in "development" environment.
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Reading configuration from config/newrelic.yml
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Enabling the Request Sampler.
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Enabling the Request Sampler.
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Environment: development
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Dispatcher: unicorn
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Application: Web Sudoku
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] WARN : Agent configured not to send data in this environment.
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Installing Net instrumentation
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Installing Sinatra instrumentation
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Installing deferred Rack instrumentation
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Installing Unicorn instrumentation
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Finished instrumentation
+[11/03/13 22:20:09 +0000 Rhyss-MacBook-Pro.local (6389)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Enabling the Request Sampler.
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Enabling the Request Sampler.
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Environment: development
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Dispatcher: unicorn
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Application: Web Sudoku
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] WARN : Agent configured not to send data in this environment.
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Installing Net instrumentation
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Installing Sinatra instrumentation
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Installing deferred Rack instrumentation
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Installing Unicorn instrumentation
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Finished instrumentation
+[11/04/13 09:27:14 +0000 Rhyss-MacBook-Pro.local (6600)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Enabling the Request Sampler.
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Enabling the Request Sampler.
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Environment: development
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Dispatcher: unicorn
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Application: Web Sudoku
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] WARN : Agent configured not to send data in this environment.
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Installing Net instrumentation
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Installing Sinatra instrumentation
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Installing deferred Rack instrumentation
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Installing Unicorn instrumentation
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Finished instrumentation
+[11/04/13 09:28:32 +0000 Rhyss-MacBook-Pro.local (6606)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Enabling the Request Sampler.
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Enabling the Request Sampler.
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Environment: development
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Dispatcher: unicorn
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Application: Web Sudoku
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] WARN : Agent configured not to send data in this environment.
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Installing Net instrumentation
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Installing Sinatra instrumentation
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Installing deferred Rack instrumentation
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Installing Unicorn instrumentation
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Finished instrumentation
+[11/04/13 09:41:09 +0000 Rhyss-MacBook-Pro.local (6625)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Enabling the Request Sampler.
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Enabling the Request Sampler.
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Environment: development
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Dispatcher: unicorn
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Application: Web Sudoku
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] WARN : Agent configured not to send data in this environment.
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Installing Net instrumentation
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Installing Sinatra instrumentation
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Installing deferred Rack instrumentation
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Installing Unicorn instrumentation
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Finished instrumentation
+[11/04/13 09:55:04 +0000 Rhyss-MacBook-Pro.local (6637)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Enabling the Request Sampler.
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Enabling the Request Sampler.
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Environment: development
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Dispatcher: unicorn
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Application: Web Sudoku
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] WARN : Agent configured not to send data in this environment.
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Installing Net instrumentation
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Installing Sinatra instrumentation
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Installing deferred Rack instrumentation
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Installing Unicorn instrumentation
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Finished instrumentation
+[11/04/13 10:00:10 +0000 Rhyss-MacBook-Pro.local (6686)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Enabling the Request Sampler.
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Enabling the Request Sampler.
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Environment: development
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Dispatcher: unicorn
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Application: Web Sudoku
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] WARN : Agent configured not to send data in this environment.
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Installing Net instrumentation
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Installing Sinatra instrumentation
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Installing deferred Rack instrumentation
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Installing Unicorn instrumentation
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Finished instrumentation
+[11/04/13 10:02:31 +0000 Rhyss-MacBook-Pro.local (6691)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Enabling the Request Sampler.
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Enabling the Request Sampler.
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Environment: development
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Dispatcher: unicorn
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Application: Web Sudoku
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] WARN : Agent configured not to send data in this environment.
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Installing Net instrumentation
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Installing Sinatra instrumentation
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Installing deferred Rack instrumentation
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Installing Unicorn instrumentation
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Finished instrumentation
+[11/04/13 10:03:19 +0000 Rhyss-MacBook-Pro.local (6696)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Enabling the Request Sampler.
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Enabling the Request Sampler.
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Environment: development
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Dispatcher: unicorn
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Application: Web Sudoku
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] WARN : Agent configured not to send data in this environment.
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Installing Net instrumentation
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Installing Sinatra instrumentation
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Installing deferred Rack instrumentation
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Installing Unicorn instrumentation
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Finished instrumentation
+[11/04/13 12:24:28 +0000 Rhyss-MacBook-Pro.local (6937)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Environment: development
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Dispatcher: webrick
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Application: Web Sudoku
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:14:05 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Installing Net instrumentation
+[11/04/13 19:14:06 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:14:06 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:14:06 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Finished instrumentation
+[11/04/13 19:14:06 +0000 Rhyss-MacBook-Pro.local (27585)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Environment: development
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Dispatcher: webrick
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Application: Web Sudoku
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Installing Net instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Finished instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27590)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Environment: development
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Dispatcher: webrick
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Application: Web Sudoku
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Installing Net instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Finished instrumentation
+[11/04/13 19:14:23 +0000 Rhyss-MacBook-Pro.local (27593)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Environment: development
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Dispatcher: webrick
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Application: Web Sudoku
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Installing Net instrumentation
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Finished instrumentation
+[11/04/13 19:14:43 +0000 Rhyss-MacBook-Pro.local (27596)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Environment: development
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Dispatcher: webrick
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Application: Web Sudoku
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Installing Net instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Finished instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27600)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Enabling the Request Sampler.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Environment: development
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Dispatcher: webrick
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Application: Web Sudoku
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Installing Net instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Finished instrumentation
+[11/04/13 19:14:54 +0000 Rhyss-MacBook-Pro.local (27603)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Enabling the Request Sampler.
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Enabling the Request Sampler.
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Environment: development
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Dispatcher: webrick
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Application: Web Sudoku
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Installing Net instrumentation
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Finished instrumentation
+[11/04/13 19:17:30 +0000 Rhyss-MacBook-Pro.local (27626)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Enabling the Request Sampler.
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Enabling the Request Sampler.
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Environment: development
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Dispatcher: webrick
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Application: Web Sudoku
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Installing Net instrumentation
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Finished instrumentation
+[11/04/13 19:17:31 +0000 Rhyss-MacBook-Pro.local (27629)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Enabling the Request Sampler.
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Enabling the Request Sampler.
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Environment: development
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Dispatcher: webrick
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Application: Web Sudoku
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Installing Net instrumentation
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Finished instrumentation
+[11/04/13 19:29:12 +0000 Rhyss-MacBook-Pro.local (27671)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Enabling the Request Sampler.
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Enabling the Request Sampler.
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Environment: development
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Dispatcher: webrick
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Application: Web Sudoku
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Installing Net instrumentation
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Finished instrumentation
+[11/04/13 19:39:52 +0000 Rhyss-MacBook-Pro.local (27705)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Enabling the Request Sampler.
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Enabling the Request Sampler.
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Environment: development
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Dispatcher: webrick
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Application: Web Sudoku
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Installing Net instrumentation
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Finished instrumentation
+[11/04/13 19:40:03 +0000 Rhyss-MacBook-Pro.local (27710)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Enabling the Request Sampler.
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Enabling the Request Sampler.
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Environment: development
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Dispatcher: webrick
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Application: Web Sudoku
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Installing Net instrumentation
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Finished instrumentation
+[11/04/13 19:40:04 +0000 Rhyss-MacBook-Pro.local (27713)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Environment: development
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Dispatcher: webrick
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Application: Web Sudoku
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Installing Net instrumentation
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Finished instrumentation
+[11/04/13 19:41:05 +0000 Rhyss-MacBook-Pro.local (27719)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Environment: development
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Dispatcher: webrick
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Application: Web Sudoku
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Installing Net instrumentation
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Finished instrumentation
+[11/04/13 19:41:07 +0000 Rhyss-MacBook-Pro.local (27722)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Environment: development
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Dispatcher: webrick
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Application: Web Sudoku
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Installing Net instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Environment: development
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Dispatcher: webrick
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Application: Web Sudoku
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Finished instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27725)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Installing Net instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Finished instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27726)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Environment: development
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Dispatcher: webrick
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Application: Web Sudoku
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Installing Net instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Finished instrumentation
+[11/04/13 19:41:08 +0000 Rhyss-MacBook-Pro.local (27731)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Environment: development
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Dispatcher: webrick
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Application: Web Sudoku
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Installing Net instrumentation
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Finished instrumentation
+[11/04/13 19:41:41 +0000 Rhyss-MacBook-Pro.local (27735)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Environment: development
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Dispatcher: webrick
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Application: Web Sudoku
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Installing Net instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Finished instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27738)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Enabling the Request Sampler.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Environment: development
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Dispatcher: webrick
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Application: Web Sudoku
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Installing Net instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Finished instrumentation
+[11/04/13 19:41:49 +0000 Rhyss-MacBook-Pro.local (27741)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Enabling the Request Sampler.
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Enabling the Request Sampler.
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Environment: development
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Dispatcher: webrick
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Application: Web Sudoku
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Installing Net instrumentation
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Finished instrumentation
+[11/04/13 19:48:05 +0000 Rhyss-MacBook-Pro.local (27763)] INFO : Doing deferred dependency-detection before Rack startup
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Starting the New Relic agent in "development" environment.
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Reading configuration from config/newrelic.yml
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Enabling the Request Sampler.
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Enabling the Request Sampler.
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Environment: development
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Dispatcher: webrick
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Application: Web Sudoku
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] WARN : Agent configured not to send data in this environment.
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Installing Net instrumentation
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Installing Sinatra instrumentation
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Installing deferred Rack instrumentation
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Finished instrumentation
+[11/04/13 19:48:17 +0000 Rhyss-MacBook-Pro.local (27766)] INFO : Doing deferred dependency-detection before Rack startup
